@@ -1,0 +1,4 @@
+com\neo\kafka\MovieConsumer.class
+com\neo\models\Movie.class
+com\neo\kafka\MovieProducer.class
+com\neo\resources\MovieResource.class
