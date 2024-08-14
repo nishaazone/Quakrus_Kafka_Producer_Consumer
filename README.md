@@ -1,6 +1,6 @@
 # Quakrus Kafka Producer & Consumer
 
-This example demonstates working of Apache Kafka Messaging in Quarkus Application.
+This example demonstates working of Apache Kafka Messaging in Quarkus Application.(Single service)
 
 ## To run the application
 1. Run command "mvn quarkus:dev"
